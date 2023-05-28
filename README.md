@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, Myself Srinivas Kalyan</h1>
 <h3 align="center">I am passionate Full-Stack Developer and DevOps student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalyan1045" alt="kalyan1045" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rowdy1045" target="blank"><img src="https://img.shields.io/twitter/follow/rowdy1045?logo=twitter&style=for-the-badge" alt="rowdy1045" /></a> </p>
 
 - 🔭 I’m currently working on **text segmentation of my previously developed project on Number plate detection**
