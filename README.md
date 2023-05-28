@@ -32,7 +32,7 @@
 <br>
 <br>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan1045&&theme=tokyonight" alt="kalyan1045"/><span>🟢🟡🟢</span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan1045&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kalyan1045" /> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyan1045&&theme=tokyonight" alt="kalyan1045"/><span>🟡🟢</span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalyan1045&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kalyan1045" /> 
 </p>
 
 
