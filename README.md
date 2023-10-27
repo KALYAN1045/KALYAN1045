@@ -21,7 +21,7 @@
 <br>
 <p align="left">
 <a href="https://twitter.com/rowdy1045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rowdy1045" height="30" width="40" /></a>
-<a href="[https://www.linkedin.com/in/garugu-kalyan-34a5a023b/](https://www.linkedin.com/in/srinivas-kalyan-34a5a023b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garugu kalyan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srinivas-kalyan-34a5a023b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garugu kalyan" height="30" width="40" /></a>
 <a href="https://instagram.com/_.srinivas_kalyan._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.srinivas_kalyan._" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kalyan-1045" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kalyan-1045" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gvvkalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gvvkalyan" height="30" width="40" /></a>
